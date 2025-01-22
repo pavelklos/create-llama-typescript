@@ -1,1 +1,1 @@
-# create-llama-typescript
+# create-llama: Typescript (NextJS)
